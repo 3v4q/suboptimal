@@ -1,0 +1,9 @@
+div.line {
+  display: block;
+  padding: 0.4rem;
+}
+
+div.line>* {
+  display: inline-block;
+}
+
